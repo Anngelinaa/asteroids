@@ -1,2 +1,2 @@
 # asteroids
-very cool 
+very cool project 
